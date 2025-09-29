@@ -22,6 +22,7 @@ When a specific event is selected, information on the type of event, fee, time a
 On this page the user is able to login in. If the username is unknown, they'll be prompted to register. For security reasons we use a salted hash of the given password, which will only be checked inside the database.
 Upon logging in the layout will change to a list of all the user's spots. Clicking on one of the spots will once again open a map, but this map only shows all the users spots instead of car specific spots.
 When logged in and the user spots a car, a tag will be added in the lists of spot showing who made that specific spot.
-
+### Demo
+[🎥 Watch a demo of CarSpotter on YouTube](https://youtu.be/wEiyMij9MdQ)
 ## Important note
 The API-key used for this project has been disabled for security purposes.
